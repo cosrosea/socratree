@@ -1,2 +1,3 @@
 # socratree
-Socratic Tree
+
+[Website](https://cosrosea.github.io/socratree/)
