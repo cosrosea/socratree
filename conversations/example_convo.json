@@ -1,0 +1,57 @@
+[
+    {
+      "id": "A1",
+      "reply_to": null,
+      "attitude": "neutral",
+      "content": {
+        "original": {
+          "lang": "zh",
+          "text": "爱和自由常常冲突吗？"
+        },
+        "translations": [
+          {
+            "lang": "en",
+            "text": "Do love and freedom often conflict?",
+            "method": "AI"
+          }
+        ]
+      }
+    },
+    {
+      "id": "B1",
+      "reply_to": "A1",
+      "attitude": "support",
+      "content": {
+        "original": {
+          "lang": "en",
+          "text": "Yes. Love can demand sacrifice of freedom."
+        },
+        "translations": [
+          {
+            "lang": "zh",
+            "text": "是的，爱有时会要求放弃自由。",
+            "method": "AI"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C1",
+      "reply_to": "A1",
+      "attitude": "oppose",
+      "content": {
+        "original": {
+          "lang": "zh",
+          "text": "不冲突。真正的爱是建立在自由上的。"
+        },
+        "translations": [
+          {
+            "lang": "en",
+            "text": "No conflict. True love is built on freedom.",
+            "method": "AI"
+          }
+        ]
+      }
+    }
+  ]
+  
